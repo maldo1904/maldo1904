@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/maldo1904](https://github.com/maldo1904)
 
-- 📫 How to reach me **maldonadodaniel0419@gmail.com**
+- 📫 How to reach me **danielmaldo_31@hotmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
